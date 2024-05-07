@@ -5,6 +5,8 @@ toc: false
 
 Variable stars are some of the coolest celestial objects out there. They're endlessly applicable to the world of astronomy - but why is this? 
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heic1323a_-1243686232.jpg/610px-Heic1323a_-1243686232.jpg "RS Puppis, a spectacular Cepheid Variable and one of my favorite celestial objects")
+
 ## Topic Summary
 A variable star is a star whose brightness as seen from Earth changes over time. It is easy to imagine stars as being static in their appearance - after all, our Sun doesn't appear to significantly change throughout the day, and the twinkling stars in the night sky *seem* to be unchanging each night. Yet variables are all around us; we must look a little bit closer to see how beautiful they really are.
 
