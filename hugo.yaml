@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Variable Stars and their Astronomical Applications
+title: Variable Stars
 
 # import hextra as module
 module:
@@ -33,12 +33,15 @@ menu:
     - name: Future
       pageRef: /future
       weight: 5
-    - name: Search
+    - name: Works Cited
+      pageRef: /citations
       weight: 6
+    - name: Search
+      weight: 7
       params:
         type: search
     - name: GitHub
-      weight: 7
+      weight: 8
       url: "https://github.com/kuiperbeltobject/variablestars"
       params:
         icon: github
