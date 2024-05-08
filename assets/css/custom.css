@@ -1,3 +1,13 @@
-.content {
-    font-family: "Times New Roman", Times, serif;
+:root {
+    --primary-hue: 212deg;
+    --primary-saturation: 93%;
   }
+
+h1 {
+    font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
+}
+
+.content {
+    width: 80%;
+}
+
