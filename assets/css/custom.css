@@ -1,13 +1,7 @@
 :root {
-    --primary-hue: 212deg;
-    --primary-saturation: 93%;
+    background-color:rgb(45, 49, 114);
   }
 
 h1 {
     font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
 }
-
-.content {
-    width: 80%;
-}
-
