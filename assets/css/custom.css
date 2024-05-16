@@ -1,3 +1,12 @@
 h1 {
     font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
 }
+
+#spingle {
+    width: 100vw;
+    overflow: hidden;
+    position: absolute;
+    background-size: auto 50%;
+    background-repeat: repeat;
+    background-image: url("transpstars.gif");
+}

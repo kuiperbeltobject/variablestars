@@ -2,7 +2,7 @@
 title: Variable Stars and their Astronomical Applications
 toc: false
 ---
-
+<div id="spingle"></div>
 Variable stars are some of the coolest celestial objects out there. They're endlessly applicable to the world of astronomy - but why is this? 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heic1323a_-1243686232.jpg/610px-Heic1323a_-1243686232.jpg "RS Puppis, a spectacular Cepheid Variable and one of my favorite celestial objects")
