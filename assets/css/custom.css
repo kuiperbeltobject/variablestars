@@ -8,7 +8,7 @@ h1 {
     width: 100vw;
     overflow: hidden;
     position: absolute;
-    background-size: auto 9%;
+    background-size: 14% auto;
     background-image: url("https://kuiperbeltobject.github.io/variablestars/transpstars.gif");
     z-index: -999;
 }
@@ -18,7 +18,7 @@ h1 {
 }
 
 #citestars {
-    height: 210%;
+    height: 180%;
 }
 
 #paststars {
