@@ -6,9 +6,10 @@ h1 {
     top: 0;
     left: 0;
     width: 100vw;
+    height: 100vh;
     overflow: hidden;
     position: absolute;
     background-size: auto 50%;
     background-repeat: repeat;
-    background-image: url("../../content/transpstars.gif");
+    background-image: url("https://kuiperbeltobject.github.io/variablestars/transpstars.gif");
 }
