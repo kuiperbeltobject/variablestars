@@ -10,5 +10,5 @@ h1 {
     position: absolute;
     background-size: auto 50%;
     background-repeat: repeat;
-    background-image: url("transpstars.gif");
+    background-image: url("../../content/transpstars.gif");
 }
