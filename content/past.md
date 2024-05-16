@@ -2,6 +2,9 @@
 title: Past
 type: past
 ---
+<div class="stars" id="paststars"></div>
+
+<div id="container">
 
 <img align="left" width="300" style="margin: 20px;" src="https://cdn.britannica.com/26/126226-050-9ED958C9/Cepheid-variables-Hubble-Space-Telescope.jpg" />
 
@@ -16,3 +19,4 @@ Astronomers have also been able to learn more about the nature of our Universe a
 <img align="right" width="300" style="margin: 20px;" src="https://scx1.b-cdn.net/csz/news/800a/2016/575e822d54054.jpg" title="A T Tauri star."/>
 
 But not all of the uses for variable stars are so far-reaching. They can also help us learn more about our own cosmic neighborhood! Take, for example, T Tauri stars (Herbig). Notably, T Tauri stars are very young and big. They haven't gone on to become main sequence stars yet, so they're not as compact so as to start burning Hydrogen. Because of this, they're quite big! Though their variability is very erratic, T Tauri stars offer us some insights into how young stars behave, from the formation of little protoplanetary disks around them to their emission of X-Rays. We know our Sun passed through the T Tauri phase some 4 billion years ago, so looking at T Tauri stars is like looking into a time machine of our sun's infancy.
+</div>

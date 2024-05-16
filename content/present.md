@@ -2,7 +2,9 @@
 title: Present
 type: present
 ---
+<div class="stars" id="presentstars"></div>
 
+<div id="container">
 <img align="right" width="300" style="margin: 20px;" title="A diagram of how a Type 1a supernova works. Source: Chandra X-Ray Observatory" src="https://chandra.harvard.edu/graphics/resources/illustrations/snr_type1a_420.jpg" />
 
 Currently, scientists are using variable stars and their properties to explore a variety of astronomy's biggest mysteries. Among them is the existence and properties of dark matter. Remember when we talked about Type 1a supernovae? As it turns out, astronomers have attributed the revelation that the universe is expanding at a faster and faster rate to the existence of dark energy pushing the Universe's objects farther and farther from each other. The existence of standard candles like Cepheid variables, RR Lyrae variables, and type 1a supernovae help us chart distances throughout outer space in order to get a better idea of the sheer scope of this expansion.
@@ -18,3 +20,4 @@ Variable stars have also, of particular note, been used to discover new exoplane
 <img align="right" width="300" style="margin: 20px;" title="The TRAPPIST-1 System, of particular interest to astronomers" src="https://science.nasa.gov/wp-content/uploads/2023/09/PIA22093-NASA-1.jpg" />
 
 Ultimately, variable stars offer a wealth of opportunities that are being actively looked into. There's still so much we don't know about astrophysics and stellar characteristics - variable stars offer us a wide variety of possibilities that we have yet to even scratch the surface of.
+</div>

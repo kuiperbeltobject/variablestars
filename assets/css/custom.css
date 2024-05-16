@@ -2,14 +2,41 @@ h1 {
     font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
 }
 
-#spingle {
+.stars {
     top: 0;
     left: 0;
     width: 100vw;
-    height: 100vh;
     overflow: hidden;
     position: absolute;
-    background-size: auto 50%;
-    background-repeat: repeat;
     background-image: url("https://kuiperbeltobject.github.io/variablestars/transpstars.gif");
+    z-index: -999;
+}
+
+#spingle {
+    height: 297%;
+}
+
+#citestars {
+    height: 100%;
+}
+
+#paststars {
+    height: 100%;
+}
+
+#aboutstars {
+    height: 100%;
+}
+
+#presentstars {
+    height: 100%;
+}
+
+#futurestars {
+    height: 100%;
+}
+
+#container {
+    background-color: rgb(17, 17, 17);
+    padding: 15px;
 }

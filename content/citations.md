@@ -2,7 +2,9 @@
 title: Works Cited
 toc: false
 ---
+<div class="stars" id="citestars"></div>
 
+<div id="container">
 Big Questions. (n.d.). Imagine the Universe! by NASA. https://imagine.gsfc.nasa.gov/science/questions/dark_energy.html
 
 Herbig, G.H. “The Properties and Problems of T Tauri Stars and Related Objects.” Advances in Astronomy and Astrophysics, vol. 1, 1 Jan. 1962, pp. 47–103, https://doi.org/10.1016/b978-1-4831-9919-1.50006-6. Accessed 8 May 2024.
@@ -22,3 +24,4 @@ Supernovas & Remnants | Center for Astrophysics. (n.d.). Pweb.cfa.harvard.edu. h
 Whitelock, Patricia A. ““Real-Time” Evolution in Mira Variables.” New Astronomy Reviews, vol. 43, no. 6-7, Sept. 1999, pp. 437–440, https://doi.org/10.1016/s1387-6473(99)00031-7. Accessed 15 Nov. 2020.
 
 ‌Wikipedia contributors. (2023, August 29). RR Lyrae variable. In Wikipedia, The Free Encyclopedia. Retrieved 17:48, May 7, 2024, from https://en.wikipedia.org/w/index.php?title=RR_Lyrae_variable&oldid=1172814459
+</div>

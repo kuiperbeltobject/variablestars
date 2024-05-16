@@ -2,7 +2,9 @@
 title: Variable Stars and their Astronomical Applications
 toc: false
 ---
-<div id="spingle"></div>
+<div class="stars" id="spingle"></div>
+
+<div id="container">
 Variable stars are some of the coolest celestial objects out there. They're endlessly applicable to the world of astronomy - but why is this? 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Heic1323a_-1243686232.jpg/610px-Heic1323a_-1243686232.jpg "RS Puppis, a spectacular Cepheid Variable and one of my favorite celestial objects")
@@ -17,3 +19,4 @@ Variable stars can help us measure our place in the Universe, discover important
 ## Video Overview
 Watch Professor Mike Merrifield talk about variable stars in Messier 72:
 [![M72 - Variable Stars - Deep Sky Videos](http://img.youtube.com/vi/1CcyYYmgD9Y/0.jpg)](http://www.youtube.com/watch?v=1CcyYYmgD9Y "M72 - Variable Stars - Deep Sky Videos")
+</div>
